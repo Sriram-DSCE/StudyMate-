@@ -102,8 +102,8 @@ Or access the hosted version:
 
 Built with ❤️ for **SmartInternz Hackathon 2025**.
 
+* Sriram R
 * Priyadarshini R
 * Maruthiram M
-* Sriram R
 
 ---
